@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyGithubDB</string>
+    <string name="profile_image_user">Profile Image User</string>
+    <string name="search_user">Cari User</string>
+    <string name="username">\@%s</string>
+    <string name="total_followers">%d followers</string>
+    <string name="total_followings">%d following</string>
+    <string name="menu_home">home</string>
+    <string name="menu_profile">profile</string>
+    <string name="back">back</string>
+    <string name="my_photo_profile">my photo profile</string>
+    <string name="my_name">Fakhri Fajar Ramadhan</string>
+    <string name="my_email">fakhrifajarrr@gmail.com</string>
+</resources>
